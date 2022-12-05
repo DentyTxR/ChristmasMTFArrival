@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Exiled.API;
-using Respawning;
-using Exiled.API.Features;
-
+﻿using Exiled.API.Features;
 using Exiled.Events.EventArgs;
 
 
