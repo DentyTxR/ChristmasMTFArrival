@@ -13,8 +13,8 @@ namespace ChristmasMTFArrival
         public override string Name { get; } = "ChristmasMTFArrivalPlugin";
         public override string Author { get; } = "Denty";
         public override string Prefix { get; } = "ChristmasMtfArrival";
-        public override Version Version { get; } = new Version(1, 1, 0);
-        public override Version RequiredExiledVersion { get; } = new Version(5, 3, 1);
+        public override Version Version { get; } = new Version(1, 1, 1);
+        public override Version RequiredExiledVersion { get; } = new Version(6, 0, 0);
 
         public override void OnEnabled()
         {

@@ -1,6 +1,5 @@
 ﻿using Exiled.API.Features;
-using Exiled.Events.EventArgs;
-
+using Exiled.Events.EventArgs.Map;
 
 namespace ChristmasMTFArrival
 {
